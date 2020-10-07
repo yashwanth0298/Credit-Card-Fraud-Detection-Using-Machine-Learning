@@ -81,7 +81,8 @@ Where as Local Outlier Factor detects 95 errors
 
 Support Vector Machine has detected 8516 errors
 
-Accuracy
+Accuracy:
+
 Isolation Forest detected 73 errors v/s Local Outlier Factor detecting 97 errors v/s SVM detecting 8516 errors.
 
 Isolation Forest has a 99.74% more accurate than LOF of 99.65% and SVM of 70.09.
